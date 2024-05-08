@@ -1,13 +1,25 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santosh+Adhikari!;" />
 </h1>
+
 <h3 align="center">A DevOps Engineer with a knack for AWS and Cloud Computing</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/devops-engineer-11227408">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-codes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/santosh_code" target="blank"><img src="https://img.shields.io/twitter/follow/santosh_code?logo=twitter&style=for-the-badge" alt="santosh_code" /></a> </p>
+
+- 🌱 I’m currently learning **Terraform and Ansible**
+
+- 👨‍💻 All of my projects are available at [www.santoshadhikari1345.com.np](www.santoshadhikari1345.com.np)
+
+- 📝 I regularly write articles on [https://hashnode.com/@SantoshCodes](https://hashnode.com/@SantoshCodes)
+
+- 📫 How to reach me **santoshadhikari1345@gmail.com**
+
+- 📄 Know about my experiences [www.santoshadhikari1345.com.np/resume](www.santoshadhikari1345.com.np/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
