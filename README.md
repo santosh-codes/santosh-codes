@@ -5,7 +5,7 @@
 <h3 align="center">A DevOps Engineer with a knack for AWS and Cloud Computing</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/devops-engineer-11227408">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-codes" /> </p>
 
