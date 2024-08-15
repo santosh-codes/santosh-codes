@@ -25,7 +25,7 @@
 
 <a href="https://santoshadhikari1345.com.np">![Website](https://img.shields.io/website?label=SantoshAdhikari.com&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)</a>
 <a href="https://www.linkedin.com/in/santosh-adhikari-devops/">![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://santosh-codes.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+<a href="https://santosh-codes.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 
 
